@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Brian Spencer",
+    "occupation": "Front End Developer",
+    "description": "I live to create experiences in React",
+    "image": "profilepic1.jpg",
+    "bio": "Hi there! My name is Brian Spencer! I've been coding for over a year and specialize in using React JS and Next JS for developing experiences. As a React developer I've worked on both website clones using the React stack, and vanilla JS projects to build & scale them to completion. Along my journey I realized my passion existed in creating digital experiences for others. With this passion, I have now trained myself to develop real world usable code by reading documentation, getting coaching sessions through my mentor and by progressing through coding bootcamps.",
+    "contactmessage": "Get in touch with me!",
+    "email": "brianspencer@spencerbrian.com",
+    "phone": "+714 8731887",
+    "address": {
+      "street": "6851 Trask Ave",
+      "city": "Orange County",
+      "state": "California",
+      "zip": "92683"
+    },
+    "website": "",
+    "resumedownload": "https://github.com/bspence205",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/bspence205",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/brian-spencer-99733823b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/gatsby.the.corgii/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "California State University Long Beach",
+        "degree": "Bachelor's Degree, Finance",
+        "graduated": "May 2018",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Keystone Pacific",
+        "title": "Staff Accountant",
+        "years": "October 2018 - October 2021",
+        "description": "Managed a portfolio of 45 clients with a focus in fund accounting and the month end closing of balance sheet and income statement accounts."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "NextJS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Hulu Clone (React JS)",
+        "category": "",
+        "image": "huluPreview.png",
+        "url": "https://hulu-3qfm5p3eg-bspence205.vercel.app"
+      },
+      {
+        "title": "Airbnb Clone (React JS)",
+        "category": "",
+        "image": "airbnbPreview.png",
+        "url": "https://airbnb-h8tlkkckx-bspence205.vercel.app"
+      },
+      {
+        "title": "Medium Blog Clone (React JS & Sanity CMS) ",
+        "category": "",
+        "image": "mediumPreview.png",
+        "url": "https://medium-blog-ivh6heryp-bspence205.vercel.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Brian is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Emma Salamanca"
+      },
+      {
+        "text": "Learning with Brian has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Rio Ramos"
+      }
+    ]
+  }
+}
