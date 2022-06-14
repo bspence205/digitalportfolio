@@ -87,6 +87,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Twitter Clone (React/Typescript/NextJS)",
+        "category": "",
+        "image": "twitterPreview1.png",
+        "url": "https://twitter-pmg3159fq-bspence205.vercel.app"
+      },
+      {
         "title": "Hulu Clone (React JS)",
         "category": "",
         "image": "huluPreview.png",
